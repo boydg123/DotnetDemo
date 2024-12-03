@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AOPDemo1-静态代理/1.0.0": {
+        "runtime": {
+          "AOPDemo1-静态代理.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AOPDemo1-静态代理/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

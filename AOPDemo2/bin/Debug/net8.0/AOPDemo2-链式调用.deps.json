@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AOPDemo2-链式调用/1.0.0": {
+        "runtime": {
+          "AOPDemo2-链式调用.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AOPDemo2-链式调用/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

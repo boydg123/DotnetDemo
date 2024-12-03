@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VK5oslE9D6CmjLBG8sYP+kV8FUY4XvczMDHfZ0QXU8wobgRo2xSBuCQXCcaX1UyEPaaoeryMIn0/BZSMUt4Gg==",
+  "success": true,
+  "projectFilePath": "D:\\2024\\DotnetDemo\\DotnetDemo\\IOCDemo3\\IOCDemo3-组件扫描.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

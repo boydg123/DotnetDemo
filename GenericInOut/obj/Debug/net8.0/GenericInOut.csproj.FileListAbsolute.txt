@@ -1,0 +1,14 @@
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\bin\Debug\net8.0\GenericInOut.exe
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\bin\Debug\net8.0\GenericInOut.deps.json
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\bin\Debug\net8.0\GenericInOut.runtimeconfig.json
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\bin\Debug\net8.0\GenericInOut.dll
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\bin\Debug\net8.0\GenericInOut.pdb
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\GenericInOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\GenericInOut.AssemblyInfoInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\GenericInOut.AssemblyInfo.cs
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\GenericInOut.csproj.CoreCompileInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\GenericInOut.dll
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\refint\GenericInOut.dll
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\GenericInOut.pdb
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\GenericInOut.genruntimeconfig.cache
+D:\2024\DotnetDemo\DotnetDemo\GenericInOut\obj\Debug\net8.0\ref\GenericInOut.dll

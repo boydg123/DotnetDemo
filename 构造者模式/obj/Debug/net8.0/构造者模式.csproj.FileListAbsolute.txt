@@ -1,0 +1,14 @@
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\bin\Debug\net8.0\构造者模式.exe
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\bin\Debug\net8.0\构造者模式.deps.json
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\bin\Debug\net8.0\构造者模式.runtimeconfig.json
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\bin\Debug\net8.0\构造者模式.dll
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\bin\Debug\net8.0\构造者模式.pdb
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\构造者模式.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\构造者模式.AssemblyInfoInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\构造者模式.AssemblyInfo.cs
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\构造者模式.csproj.CoreCompileInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\构造者模式.dll
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\refint\构造者模式.dll
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\构造者模式.pdb
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\构造者模式.genruntimeconfig.cache
+D:\2024\DotnetDemo\DotnetDemo\构造者模式\obj\Debug\net8.0\ref\构造者模式.dll

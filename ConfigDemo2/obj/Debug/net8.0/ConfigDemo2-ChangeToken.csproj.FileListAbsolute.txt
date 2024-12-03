@@ -1,0 +1,17 @@
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\bin\Debug\net8.0\ConfigDemo2-ChangeToken.exe
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\bin\Debug\net8.0\ConfigDemo2-ChangeToken.deps.json
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\bin\Debug\net8.0\ConfigDemo2-ChangeToken.runtimeconfig.json
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\bin\Debug\net8.0\ConfigDemo2-ChangeToken.dll
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\bin\Debug\net8.0\ConfigDemo2-ChangeToken.pdb
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.csproj.AssemblyReference.cache
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.AssemblyInfoInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.AssemblyInfo.cs
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.csproj.CoreCompileInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDe.20503FBF.Up2Date
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.dll
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\refint\ConfigDemo2-ChangeToken.dll
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.pdb
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ConfigDemo2-ChangeToken.genruntimeconfig.cache
+D:\2024\DotnetDemo\DotnetDemo\ConfigDemo2\obj\Debug\net8.0\ref\ConfigDemo2-ChangeToken.dll

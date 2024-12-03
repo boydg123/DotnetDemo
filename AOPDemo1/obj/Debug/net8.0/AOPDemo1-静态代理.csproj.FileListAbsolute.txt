@@ -1,0 +1,14 @@
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\bin\Debug\net8.0\AOPDemo1-静态代理.exe
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\bin\Debug\net8.0\AOPDemo1-静态代理.deps.json
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\bin\Debug\net8.0\AOPDemo1-静态代理.runtimeconfig.json
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\bin\Debug\net8.0\AOPDemo1-静态代理.dll
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\bin\Debug\net8.0\AOPDemo1-静态代理.pdb
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\AOPDemo1-静态代理.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\AOPDemo1-静态代理.AssemblyInfoInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\AOPDemo1-静态代理.AssemblyInfo.cs
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\AOPDemo1-静态代理.csproj.CoreCompileInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\AOPDemo1-静态代理.dll
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\refint\AOPDemo1-静态代理.dll
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\AOPDemo1-静态代理.pdb
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\AOPDemo1-静态代理.genruntimeconfig.cache
+D:\2024\DotnetDemo\DotnetDemo\AOPDemo1\obj\Debug\net8.0\ref\AOPDemo1-静态代理.dll

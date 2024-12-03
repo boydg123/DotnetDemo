@@ -1,0 +1,14 @@
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\bin\Debug\net8.0\IOCDemo4.exe
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\bin\Debug\net8.0\IOCDemo4.deps.json
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\bin\Debug\net8.0\IOCDemo4.runtimeconfig.json
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\bin\Debug\net8.0\IOCDemo4.dll
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\bin\Debug\net8.0\IOCDemo4.pdb
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\IOCDemo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\IOCDemo4.AssemblyInfoInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\IOCDemo4.AssemblyInfo.cs
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\IOCDemo4.csproj.CoreCompileInputs.cache
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\IOCDemo4.dll
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\refint\IOCDemo4.dll
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\IOCDemo4.pdb
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\IOCDemo4.genruntimeconfig.cache
+D:\2024\DotnetDemo\DotnetDemo\IOCDemo4\obj\Debug\net8.0\ref\IOCDemo4.dll

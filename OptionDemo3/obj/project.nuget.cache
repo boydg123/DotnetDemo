@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "00kJ3whi7WbIivUApAOAVPiTqxnslXR/uYoTYZTMnjLBSp1FS/RC+i8fX96R1mEjHKV4G2xu0H5palIOGNFSVg==",
+  "success": true,
+  "projectFilePath": "D:\\2024\\DotnetDemo\\DotnetDemo\\OptionDemo3\\OptionDemo3-命名选项.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
